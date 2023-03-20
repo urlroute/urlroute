@@ -9,7 +9,7 @@ I enjoy coding HTML emails. I like to make sure the code matches the design; it 
 * 🌍  I'm based in Los Angeles, CA
 * 🖥️  See my portfolio at [https://www.htmlchris.com/](http://https://www.htmlchris.com/)
 * 🧠  I'm learning the templating language called "Liquid"
-* ⚡  I view email development as a bona-fide career path. The emails are like mini websites.
+* ⚡  I view email development as a bona-fide career path. Almost like the email are mini websites.
 
 ### Skills
 
@@ -27,6 +27,3 @@ I enjoy coding HTML emails. I like to make sure the code matches the design; it 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/urlroute" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/emaildevchris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
-
-<a href="https://github.com/urlroute" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urlroute&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
