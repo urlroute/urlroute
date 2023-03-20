@@ -9,7 +9,7 @@ I enjoy coding HTML emails. I like to make sure the code matches the design; it 
 * 🌍  I'm based in Los Angeles, CA
 * 🖥️  See my portfolio at [https://www.htmlchris.com/](https://www.htmlchris.com/)
 * 🧠  I'm learning the templating language called "Liquid"
-* ⚡  I view email development as a bona-fide career path. Almost like the email are mini websites.
+* ⚡  I view email development as a bona-fide career path. Almost like the emails are mini websites.
 
 ### Skills
 
