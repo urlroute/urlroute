@@ -6,13 +6,13 @@ HTML Email Developer
 
 I enjoy coding HTML emails. I like to make sure the code matches the design; it is like a game to me.
 
-* 🌍  I'm based in Los Angeles, CA
-* 🖥️  See my portfolio at (http://https://www.htmlchris.com/){target="_blank"}
-
-* 🧠  I'm learning the templating language called "Liquid"
-* ⚡  I view email development as a bona-fide career path. Almost like the email are mini websites.
+* 🌍  I'm based in Los Angeles, CA
+* 🖥️  See my portfolio at [https://www.htmlchris.com/](https://www.htmlchris.com/)
+* 🧠  I'm learning the templating language called "Liquid"
+* ⚡  I view email development as a bona-fide career path. Almost like the email are mini websites.
 
 ### Skills
+
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -24,6 +24,7 @@ I enjoy coding HTML emails. I like to make sure the code matches the design; it 
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
 
 ### Socials
 
