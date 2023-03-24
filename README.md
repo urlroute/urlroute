@@ -11,6 +11,9 @@ I enjoy coding HTML emails. I like to make sure the code matches the design; it 
 * 🧠  I'm learning the templating language called "Liquid"
 * ⚡  I view email development as a bona-fide career path. Almost like the emails are mini websites.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+
 ### Skills
 
 
