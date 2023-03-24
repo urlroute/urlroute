@@ -16,12 +16,7 @@ I enjoy coding HTML emails. I like to make sure the code matches the design; it 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlroute&layout=compact)](#)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=urlroute&show_icons=true&theme=radical" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urlroute&layout=compact" />
-
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
