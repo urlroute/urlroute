@@ -11,8 +11,11 @@ I enjoy coding HTML emails. I like to make sure the code matches the design; it 
 * 🧠  I'm learning the templating language called "Liquid"
 * ⚡  I view email development as a bona-fide career path. Almost like the emails are mini websites.
 
-<img align="left" width="47" src="https://github-readme-stats.vercel.app/api?username=urlroute&show_icons=true&theme=vision-friendly-dark" />
-<img align="left" width="47" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urlroute&hide_progress=true" />
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlroute&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Skills
 
