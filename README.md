@@ -14,14 +14,6 @@ I enjoy coding HTML emails. I like to make sure the code matches the design; it 
 <img align="left" width="47" src="https://github-readme-stats.vercel.app/api?username=urlroute&show_icons=true&theme=vision-friendly-dark" />
 <img align="left" width="47" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urlroute&hide_progress=true" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=urlroute&show_icons=true&theme=vision-friendly-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urlroute&hide_progress=true)](https://github.com/urlroute/github-readme-stats)
-
-https://github-readme-stats.vercel.app/api?username=urlroute&show_icons=true&theme=vision-friendly-dark
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Skills
 
 
